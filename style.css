@@ -3,3 +3,12 @@ Theme Name: Cryptonomic Fr Child
 Template: bloglo
 Version: 1.0
 */
+/* Kill banner pub fantôme */
+.top-banner,
+.header-ad,
+.ad-header,
+.ad-container,
+[class*="ad"],
+[id*="ad"] {
+    display: none !important;
+}
