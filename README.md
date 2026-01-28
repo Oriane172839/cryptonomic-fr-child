@@ -1,7 +1,7 @@
 # Cryptonomic — Cryptocurrency-Focused Media Platform
 
 Cryptonomic is an online media platform specializing in cryptocurrency news, blockchain developments, and the broader Web3 ecosystem.  
-**Live website:** https://www.cryptonomic.fr/
+**Live website:**  https://www.cryptonomic.fr/
 
 ## Project Goal
 
